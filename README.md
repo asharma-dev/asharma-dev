@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>  
-<h3 align="center">A Full Stack Software Developer based in Canada</h3>  
+<h3 align="center">A Full Stack Software Developer</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asharma-dev" /> </p>  
   
-- 🌱 I’m currently learning **AWS services**  
+- 🌱 I’m currently preparing for **AWS solutions architect **  
   
 - 👨‍💻 All of my projects are available at [https://abhi.live](https://abhi.live)  
   
