@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asharma-dev" /> </p>  
   
-- 🌱 I’m currently preparing for **AWS solutions architect **  
+- 🌱 I’m currently preparing for **AWS solutions architect**  
   
 - 👨‍💻 All of my projects are available at [https://abhi.live](https://abhi.live)  
   
