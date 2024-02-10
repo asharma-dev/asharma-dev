@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asharma-dev" /> </p>  
   
-- 🌱 I’m currently preparing for **AWS solutions architect**   
+- 🌱 I’m a certified Solutions Architect**   
   
 - 💬 Ask me about **React.js and Node.js**  
   
