@@ -5,7 +5,7 @@
   
 - 🌱 I’m a **certified Solutions Architect**   
   
-- 💬 Ask me about **React.js and Node.js**  
+- 💬 Ask me about **Angular, Next.js, React.js and Node.js**  
   
 - 📫 Reach me out! **abhisheksharma1123@gmail.com**  
   
